@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="112baac7-4457-4a63-8fc0-ab669ec8456b" 
+        solutionId="112baac7-4457-4a63-8fc0-ab669ec8456b" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Laboratorio8_2"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="fe478037-7ebb-45cb-b8a4-ef9c3055473d" />
+  </features>
+</package>
